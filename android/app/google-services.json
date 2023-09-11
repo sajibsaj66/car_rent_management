@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868170374005",
+    "project_id": "car-rent-management-a4e70",
+    "storage_bucket": "car-rent-management-a4e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868170374005:android:831702d9971a65183d113c",
+        "android_client_info": {
+          "package_name": "com.example.car_rent_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868170374005-rpuveujsdmrbg6hqtgtg2ach2hk7cqju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZ8mHXnBMMFP7f6u5s91WEaySERYq_X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868170374005-rpuveujsdmrbg6hqtgtg2ach2hk7cqju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

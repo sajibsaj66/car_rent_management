@@ -1,0 +1,9 @@
+List<String?> carBrandTypes=['BMW','Toyota','Motorolla','TATA','Maruti','Lamborghini','Hyundai','Honda','Renault'];
+List<String?> carSeatNo=['3','4','5','6','7','8','9','10'];
+List<String?> bookingTime=['12:00','01:00','02:00','03:00','04:00','05:00','06:00','07:00','08:00','09:00','10:00','11:00','12:00','13:00','14:00','15:00','16:00','17:00','18:00','19:00','20:00','21:00','22:00','23:00','24:00',];
+const datePattern = 'dd/MM/yyyy';
+const dateTimePattern = 'dd/MM/yyyy hh:mm:s a';
+const isLoggedIn='isLoggedIn';
+const userId='userId';
+const avgRating='avgrating';
+String datetime = DateTime.now().toString();
